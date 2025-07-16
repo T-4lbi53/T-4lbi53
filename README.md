@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello, there!
 
-<!--
-**ghostrepo-ML/ghostrepo-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an **Electronics Engineer** with a passion for how intelligent systems work — especially machine learning and AI.  
+💡 I love understanding how hardware and software can work together, and I’m currently diving deep into the world of data, models, and intelligent decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 🤖 Learning **Machine Learning** fundamentals (Supervised, Unsupervised, Neural Networks)
+- 🧠 Exploring how **AI algorithms** work under the hood
+- 🧰 Building small projects in **C and Python** to reinforce core concepts
+
+---
+
+## 🛠️ Skills & Tools
+- 💻 Programming: C, Python, 
+- 📊 ML Tools: Numpy, Pandas (learning scikit-learn)
+- 🧠 Topics: Neural Networks, Linear Algebra, Data Preprocessing
+- 🛠 Electronics: Arduino, Embedded Systems, Microcontrollers
+
+## 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostrepo-ML&show_icons=true&theme=midnight-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostrepo-ML&layout=compact&theme=midnight-purple)
+
+
+
