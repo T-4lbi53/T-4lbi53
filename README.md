@@ -19,9 +19,9 @@
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostrepo-ML&show_icons=true&theme=midnight-purple)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-4lbi53&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostrepo-ML&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-4lbi53&layout=compact&theme=midnight-purple)
 
 
 
